@@ -15,3 +15,4 @@ git push
 
 git branch = shows all the branches
 git branch newBranch
+git checkout newBranch
