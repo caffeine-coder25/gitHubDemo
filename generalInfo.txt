@@ -5,9 +5,9 @@ cd - change directory
 cd ..
 pwd = present working directory
 open fileName
-touch fileName.ext - creates a file
+toch fileName.ext - creates a file
 
-git clone ...
+git clone ... okay
 git status
 git add fileName.ext
 git commit -m "updated"
@@ -16,3 +16,7 @@ git push
 git branch = shows all the branches
 git branch newBranch
 git checkout newBranch
+git add fileName.ext
+git status
+git commit -m "message"
+git push --set-upstream origin branch1
