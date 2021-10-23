@@ -10,4 +10,5 @@ touch fileName.ext - creates a file
 git clone ...
 git status
 git add fileName.ext
+git commit -m "updated"
 git push
