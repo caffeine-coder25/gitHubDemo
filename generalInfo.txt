@@ -1,8 +1,13 @@
 General Git Commands and Terminal Commands
 
-ls
-cd 
+ls - shows all the files
+cd - change directory
 cd ..
-pwd
+pwd = present working directory
 open fileName
-touch fileName.ext
+touch fileName.ext - creates a file
+
+git clone ...
+git status
+git add fileName.ext
+git push
