@@ -1,0 +1,8 @@
+General Git Commands and Terminal Commands
+
+ls
+cd 
+cd ..
+pwd
+open fileName
+touch fileName.ext
