@@ -12,3 +12,6 @@ git status
 git add fileName.ext
 git commit -m "updated"
 git push
+
+git branch = shows all the branches
+git branch newBranch
